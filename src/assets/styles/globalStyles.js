@@ -15,6 +15,6 @@ export const GlobalStyle = createGlobalStyle`
     
   }
   a, div, button, h1, p, span, ::placeholder {
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Manrope', sans-serif;
   }
   `;
