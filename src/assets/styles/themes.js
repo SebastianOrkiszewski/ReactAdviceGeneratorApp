@@ -10,5 +10,6 @@ export const theme = {
     },
     fontSize: {
       standard: '28px',
+      small: '14px'
     },
   };
