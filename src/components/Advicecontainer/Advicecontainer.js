@@ -7,7 +7,7 @@ import DividerTwo from 'assets/images/pattern-divider-mobile.svg'
 const Advicecontainer = ({quote, fetchAdvice}) => {
   return (
     <Wrapper>
-    <Id>ADVICE  #{quote.id}</Id>
+    <Id>ADVICE #{quote.id}</Id>
     <Advice>"{quote.advice}"</Advice>
     <DesktopDivider>
     <img src={DividerOne} alt="divider" />
